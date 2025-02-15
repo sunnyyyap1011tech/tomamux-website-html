@@ -770,8 +770,8 @@
         margin-bottom: 35px
     }
 }
-
-/* :not(.touchevents) .qodef-custom-cursor--enabled * {
+/* 
+:not(.touchevents) .qodef-custom-cursor--enabled * {
     cursor: none !important
 } */
 
